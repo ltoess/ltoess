@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ltoess
-- 👀 I’m interested in backend software development
+- 👀 I’m interested in Object-oriented programming, DSA, and databases
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on mainly java OOP projects
 - 📫 How to reach me: lukeoess@gmail.com
